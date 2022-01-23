@@ -9,3 +9,13 @@
 <img src="https://miro.medium.com/max/1105/1*nBgCTU_hAVG00eYkcRf6Mw.png" style="width:800px;height:300px;">
 
 
+
+Libraries : 
+
+- Pandas
+- Seaborn
+- Matplotlib.pyplot
+- sklearn
+- Model : Logistic Regression 
+
+
