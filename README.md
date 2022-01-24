@@ -19,3 +19,12 @@ Libraries :
 - Model : Logistic Regression 
 
 
+sklearn : model_selection , metrics , linear_model , feature_extraction.text 
+
+NB : 
+
+Label encoder : SPAM  --- > 1
+                HAM   --- > 0
+
+
+
